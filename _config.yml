@@ -1,0 +1,40 @@
+title: MTS Question Generator
+email:
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+navigation:
+  - title: Home
+    url: /
+  - title: MTS
+    url: /mts/
+  - title: Oscars
+    url: /oscars/
+  - title: Directors
+    url: /directors/
+  - title: Casts
+    url: /casts/
+  - title: Actors
+    url: /actors/
+  - title: Release Dates
+    url: /release-dates/
+  - title: IG MTS
+    url: /ig-mts/
+  - title: IG Casts
+    url: /ig-casts/
+  - title: IG Actors
+    url: /ig-actors/
+  - title: IG Taglines
+    url: /ig-taglines/
+  - title: SW MTS
+    url: /sw-mts/
+  - title: SW Characters
+    url: /sw-characters/
